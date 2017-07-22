@@ -1,0 +1,5 @@
+{
+	"gold": "400",
+	"bagOfHolding" : ["item A", "item B", "item C"],
+	"foo": "bar"
+}
