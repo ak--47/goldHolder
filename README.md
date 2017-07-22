@@ -40,4 +40,7 @@ _(there are example JSON files in the repo if you have trouble)_
  - dev/production mode
  - a bunch of other things...
 
+Heroku:
+ https://polar-hollows-28550.herokuapp.com/ | https://git.heroku.com/polar-hollows-28550.git
+
 
